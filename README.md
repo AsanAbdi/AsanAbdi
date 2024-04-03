@@ -1,21 +1,21 @@
-Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Абдимуталипов Асан!
+Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdimutalipov Asan!
 ==========================================================================================================================================
 
-Backend разработчик
+Backend Developer
 --------------------
 
-Меня зовут Асан, мне 18 лет. В 2021 году я начал изучать программирование самостоятельно и в 2023 году поступил на факультет Айти и Бизнеса в Университете Салымбекова.
-С января 2024 года работаю в айти компании CRYXXEN, начав с интересной стажировки, которая привела к полноценной должности младшего бэкенд-разработчика. Готов к новым вызовам и стремлюсь к профессиональному росту.
-Готов внести свой вклад в проекты с уверенностью и энтузиазмом.
+My name is Asan, I am 18 years old. In 2020, I started studying programming on my own and in 2023 I joined the Faculty of IT and Business at Salymbekov University.
+Since January 2024, I have been working at the IT company CRYXXEN, starting with an interesting internship that led to a full-fledged position as a junior backend developer. I am ready for new challenges and strive for professional growth.
+I am ready to contribute to projects with confidence and enthusiasm.
 
-### Технологии
+### Technologies
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /><a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
 
-### Социальные сети:
+### Socials:
 
   <div id="badges">
     <a href="https://t.me/AS4NASAN" target="_blank">
@@ -27,7 +27,7 @@ Backend разработчик
 
 ![codewars](https://github.r2v.ch/codewars?user=Asan50&stroke=%23BB432C)
 
-### GitHub статистика:
+### GitHub stats:
 
 <a href="https://github.com/AsanAbdi"><img src="https://github-readme-stats.vercel.app/api?username=AsanAbdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abdimutalipov Asan's GitHub stats" /></a>
 
