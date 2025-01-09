@@ -27,7 +27,7 @@ I am ready to contribute to projects with confidence and enthusiasm.
 
 ![codewars](https://github.r2v.ch/codewars?user=Asan50&stroke=%23BB432C)
 
-### ⚙️ Codewars:
+### ⚙️ LeetCode:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AsanAbdi?theme=dark&font=ABeeZee&ext=heatmap)
 
