@@ -4,9 +4,12 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Backend Developer
 --------------------
 
-My name is Asan, I am 19 years old. In 2020, I started studying programming on my own and in 2023 I joined the Faculty of IT and Business at Salymbekov University.
+My name is Asan, I am 19 years old. In 2020, I started studying programming on my own, and in 2023 I joined the Faculty of IT and Business at Salymbekov University. Currently, I am studying Computer Science at INTI International University and expect to complete my studies in 2026.
+
 Since January 2024, I have been working at the IT company CRYXXEN, starting with an interesting internship that led to a full-fledged position as a junior backend developer. I am ready for new challenges and strive for professional growth.
-I am ready to contribute to projects with confidence and enthusiasm.
+
+I am confident and enthusiastic about contributing to impactful projects and achieving meaningful results.
+
 
 ### Technologies
 
