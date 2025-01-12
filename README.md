@@ -21,8 +21,14 @@ I am confident and enthusiastic about contributing to impactful projects and ach
 ### Socials:
 
   <div id="badges">
-    <a href="https://t.me/AS4NASAN" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    <a href="https://t.me/Ajalzm" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+    </a>
+    <a href="mailto:asanabdi50@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/asan-abdimutalipov-2663b1292/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
     </a>
   </div>
 
