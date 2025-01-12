@@ -18,7 +18,7 @@ I am confident and enthusiastic about contributing to impactful projects and ach
 </p>
 
 
-### Socials:
+### Contacts:
 
   <div id="badges">
     <a href="https://t.me/Ajalzm" target="_blank">
